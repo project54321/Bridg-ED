@@ -1,2 +1,0 @@
-#This folder contains all the assets for FAVICONS.
-#Includes Mobile Home Screen Icons.
