@@ -29,7 +29,7 @@ No frameworks, no dependencies — just fast, lightweight code.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/bridged.git
+git clone https://github.com/project54321/Bridg-ED.git
 cd bridged
 ```
 
